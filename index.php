@@ -1,1 +1,2 @@
-
+<?php
+echo "PHP API is running";
